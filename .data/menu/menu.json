@@ -1,0 +1,43 @@
+{
+  "Margarita": {
+    "price": 100,
+    "ingredients": ["Mozzarella cheese"]
+  },
+  "Hawaiian": {
+    "price": 140,
+    "ingredients": ["Mozzarella cheese", "Ham", "Pineapple"]
+  },
+  "Litle Italy": {
+    "price": 140,
+    "ingredients": ["Mozzarella cheese", "Ham", "Mushrooms"]
+  },
+  "New Yorker": {
+    "price": 170,
+    "ingredients": ["Mozzarella cheese", "Cheddar cheese", "Beef", "Bacon"]
+  },
+  "Hot And Spicy": {
+    "price": 170,
+    "ingredients": [
+      "Mozzarella cheese",
+      "Pepperoni",
+      "Onions",
+      "Jalapenos",
+      "Black Pepper"
+    ]
+  },
+  "Pepperoni Feast": {
+    "price": 140,
+    "ingredients": ["Mozzarella cheese", "Double Pepperoni"]
+  },
+  "Vegiterian": {
+    "price": 170,
+    "ingredients": [
+      "Mozzarella cheese",
+      "Green peppers",
+      "Onions",
+      "Mushrooms",
+      "Black olives",
+      "Tomatoes"
+    ]
+  }
+}
