@@ -1,9 +1,1 @@
-{
-  "firstName": "Marco",
-  "lastName": "Rossi",
-  "email": "marco@gmail.com",
-  "address": "Roma",
-  "hashedPassword": "eab0e1c0bce5ed0b95b4301e08ac2aa9260f073bf8af58c6ee62aada568dcc5e",
-  "tosAgreement": true,
-  "cartItems": [{ "menuItemId": 8, "quantity": 2 }]
-}
+{"firstName":"Marco","lastName":"Rossi","email":"marco@gmail.com","address":"Roma","hashedPassword":"eab0e1c0bce5ed0b95b4301e08ac2aa9260f073bf8af58c6ee62aada568dcc5e","tosAgreement":true,"cartItems":[]}
